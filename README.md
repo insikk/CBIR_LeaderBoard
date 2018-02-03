@@ -116,6 +116,9 @@ Rank is based on Oxford105k (mid-scale image retrieval).:trophy:
 </tbody>
 </table>
 
+* This result does not use Query Expansion (QE), Database Augmentation (DBA), or Spatial Verification.
+* For BoW based Image Retrieval System, Spatial Verifiaction is necessary to consider spatial information. So, I explicitly add the spatial verification method after `+` symbol. (i.e FSM, VV)
+
 
 [GeM]: Fine-tuning CNN Image Retrieval with No Human Annotation by Filip Radenović, Giorgos Tolias, Ondřej Chum https://arxiv.org/abs/1711.02512, 
 
