@@ -163,7 +163,23 @@ Rank is based on Oxford105k (mid-scale image retrieval).:trophy:
 
 [FSM07]: Object retrieval with large vocabularies and fast spatial matching by  James Philbin ;  Ondrej Chum ;  Michael Isard ;  Josef Sivic ;  Andrew Zisserman http://ieeexplore.ieee.org/document/4270197/
 
+# SIFT Meets CNN: A Decade Survey of Instance Retrieval (last update 17.05)
+by Liang Zheng, Yi Yang, Qi Tian
+https://arxiv.org/abs/1608.01807
+
+![image](https://user-images.githubusercontent.com/2110359/35803629-ce829efa-0ab7-11e8-8bc3-f5035fd89f5b.png)
+
+# INSTRE Dataset
+
+Image from "Efficient Diffusion on Region Manifolds: Recovering Small Objects with Compact CNN Representations"
+by Ahmet Iscen, Giorgos Tolias, Yannis Avrithis, Teddy Furon, Ondrej Chum
+
+https://arxiv.org/abs/1611.05113
+
+![image](https://user-images.githubusercontent.com/2110359/35803718-2309d1dc-0ab8-11e8-9498-45f4264c2727.png)
+
+
+
 # TODO
 
 [ ] Add post-processed version including QE, and diffusion. 
-[ ] Add INSTRE dataset. 
