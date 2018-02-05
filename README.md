@@ -162,3 +162,8 @@ Rank is based on Oxford105k (mid-scale image retrieval).:trophy:
 [HE08]: Hamming embedding and weak geometric consistency for large scale image search by Herve Jegou, Matthijs Douze, and Cordelia Schmid https://hal.inria.fr/inria-00316866/document/
 
 [FSM07]: Object retrieval with large vocabularies and fast spatial matching by  James Philbin ;  Ondrej Chum ;  Michael Isard ;  Josef Sivic ;  Andrew Zisserman http://ieeexplore.ieee.org/document/4270197/
+
+# TODO
+
+[ ] Add post-processed version including QE, and diffusion. 
+[ ] Add INSTRE dataset. 
